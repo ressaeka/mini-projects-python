@@ -1,13 +1,3 @@
-# import math
- 
-# radius = float(input("Masukkan jari-jari lingkaran: "))
- 
-# if radius < 0:
-#     print("Jari-jari tidak boleh negatif.")
-# else:
-#     area = math.pi * (radius ** 2)   
-#     print("Luas lingkaran:", area)
-
 import math
 
 def luas_lingkaran(jari_jari):
